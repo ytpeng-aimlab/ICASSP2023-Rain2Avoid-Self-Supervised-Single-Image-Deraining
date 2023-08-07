@@ -1,5 +1,5 @@
 # Rain2Avoid Self Supervised Single Image Deraining (ICASSP 2023)
-[![](https://img.shields.io/badge/arXiv-Paper-green)]()
+[![](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/10097092)
 
 Pytorch Implementation of "Rain2Avoid: Self-Supervised Single Image Deraining"
 
@@ -9,7 +9,7 @@ a single image, attracting much attention in the field. Recent research on this 
 
 ## Framework
 
-![image](https://github.com/ytpeng-aimlab/Rain2Avoid-Self-Supervised-Single-Image-Deraining/blob/master/img/framework.png)
+![image](./img/framework.png)
 
 ## Installation
 ```
@@ -62,24 +62,24 @@ python cal_psnr_ssim.py
 
 <details>
 <summary><strong>LDGP on Rain100L&DDN-SIRR</strong> (click to expand) </summary>
-<img src = "https://github.com/ytpeng-aimlab/Rain2Avoid-Self-Supervised-Single-Image-Deraining/blob/master/img/img2.png"> 
+<img src = "./img/img2.png"> 
 </details>
 
 
 ## Deraining Results
 <details>
 <summary><strong>Qualitative Result on Rain100L</strong> (click to expand) </summary>
-<img src = "https://github.com/ytpeng-aimlab/Rain2Avoid-Self-Supervised-Single-Image-Deraining/blob/master/img/img1.png"> 
+<img src = "./img/img1.png"> 
 </details>
 
 <details>
 <summary><strong>Quantitative Result on Rain100L</strong> (click to expand) </summary>
-<img src = "https://github.com/ytpeng-aimlab/Rain2Avoid-Self-Supervised-Single-Image-Deraining/blob/master/img/result_rain100L.png"> 
+<img src = "./img/result_rain100L.png"> 
 </details>
 
 <details>
 <summary><strong>Quantitative Result on Rain800, DDN-SIRR</strong> (click to expand) </summary>
-<img src = "https://github.com/ytpeng-aimlab/Rain2Avoid-Self-Supervised-Single-Image-Deraining/blob/master/img/result_DDN.png"> 
+<img src = "./img/result_DDN.png"> 
 </details>
 
 ## Citation
